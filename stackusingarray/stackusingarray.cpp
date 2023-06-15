@@ -23,6 +23,6 @@ public:
 		stack_array[top] = element;
 
 		cout << endl;
-
+		cout << element << " ditambahkan(pushed)." << endl;
 	}
 };
