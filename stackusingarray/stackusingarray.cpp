@@ -19,5 +19,10 @@ public:
 			return "";
 		}
 
+		top++;
+		stack_array[top] = element;
+
+		cout << endl;
+
 	}
 };
