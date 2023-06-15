@@ -53,3 +53,8 @@ public:
 		}
 	}
 };
+
+int main() {
+	program s;
+
+}
